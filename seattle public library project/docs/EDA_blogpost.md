@@ -34,10 +34,10 @@ The peak on Saturday can be explained by people having more time to go to the li
 
 It would be useful to see these numbers on a branch by branch basis but unfortunately that was one of the snags that came when exploring the data. Since the checkouts were only identifiable by a "BibNumber" and it doesn't uniquely identify items at a certain branch, it would be impossible to find the checkout location given the current data. This will greatly limit the research we can perform.
 
-![Checkouts by day of week](../docs/images/checkoutsbydayofweek.png')
+![Checkouts by day of week](../docs/images/checkoutsbydayofweek.png)
 
 When looking at the format subgroups by day of the week we see that all the bars move together in the same way as general day of week chart. This means that the explanation for day of week trends is probably external and based more on user schedules instead of how those schedules affect their media consumption preferences. Perhaps the simplest answer is the best one, libraries usually have reduced hours on Sunday and Friday. It would be ideal to see how circulation at branches with longer hours on those days compares to those with reduced hours.
 
-![Checkouts by day of week and format](../docs/images/checkoutsbydayofweekformat.png')
+![Checkouts by day of week and format](../docs/images/checkoutsbydayofweekformat.png)
 
 In a follow up post, we'll take a look at daily checkout trends for the whole year and see if we can see any seasonal pattens we might have missed.
