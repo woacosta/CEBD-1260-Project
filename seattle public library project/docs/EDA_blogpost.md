@@ -17,7 +17,7 @@ It would be intersesting to use the full checkout records from 2005-present to s
 
 ![Checkouts by month](../docs/images/checkoutsbymonth.png)
 
-#### Why do the monthly checkouts behave the way they do?
+### Why do the monthly checkouts behave the way they do?
 Looking at the checkout counts by media type we can see that the media numbers are pretty consistent for the whole year but the print explains most of the fluctuations in total count month to month. This is clearly visible as the shape of total count takes the same shape as the month to month print fluctuations.
 
 ![Checkouts by month and format group](../docs/images/checkoutsbyformatgroup.png)
